@@ -1,0 +1,24 @@
+{
+  "name": "codingal-iit-roorkee",
+  "version": "1.0.0",
+  "description": "My Website for Codingal x IIT Roorkee Competition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihir-27/Codingal-IIT-Roorkee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihir-27/Codingal-IIT-Roorkee/issues"
+  },
+  "homepage": "https://github.com/Mihir-27/Codingal-IIT-Roorkee#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "sass": "^1.49.9"
+  }
+}
